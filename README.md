@@ -1,7 +1,7 @@
-### Advanced Todo list ###
+## Advanced Todo list ##
 with Javascript for begginers
 
-## functions ##
+### functions ###
 
 - filter
 - add
